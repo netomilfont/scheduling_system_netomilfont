@@ -1,0 +1,207 @@
+2025-04-02 04:31:21,873 ERROR frappe New Exception collected in error log
+Site: scheduling.localhost
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Appointment","name":"new-appointment-ozcqcshmyo","__islocal":1,"__unsaved":1,"owner":"Administrator","status":"Finished","client_name":"Teste","start_date":"2025-04-03 15:30:00","duration":"00:30:00","description":"Preciso agendar um horário."}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2025-04-02 04:40:15,378 ERROR frappe New Exception collected in error log
+Site: scheduling.localhost
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Appointment","name":"new-appointment-uygekrsjhg","__islocal":1,"__unsaved":1,"owner":"Administrator","status":"Finished","client_name":"Teste","start_date":"2025-04-03 15:30:00","duration":"00:30:00","description":"teste teste teste"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2025-04-02 04:42:37,166 ERROR frappe New Exception collected in error log
+Site: scheduling.localhost
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Appointment","name":"new-appointment-uygekrsjhg","__islocal":1,"__unsaved":1,"owner":"Administrator","status":"Finished","client_name":"Teste","start_date":"2025-04-03 15:30:00","duration":"00:30:00","description":"teste teste teste"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2025-04-02 04:44:03,824 ERROR frappe New Exception collected in error log
+Site: scheduling.localhost
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Appointment","name":"new-appointment-uygekrsjhg","__islocal":1,"__unsaved":1,"owner":"Administrator","status":"Finished","client_name":"Teste","start_date":"2025-04-03 15:30:00","duration":"00:30:00","description":"teste teste teste"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2025-04-02 04:48:30,216 ERROR frappe New Exception collected in error log
+Site: scheduling.localhost
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Appointment","name":"new-appointment-uygekrsjhg","__islocal":1,"__unsaved":1,"owner":"Administrator","status":"Finished","client_name":"Teste","start_date":"2025-04-03 15:30:00","duration":"00:30:00","description":"teste teste teste"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2025-04-02 04:52:58,982 ERROR frappe New Exception collected in error log
+Site: scheduling.localhost
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Appointment","name":"new-appointment-uygekrsjhg","__islocal":1,"__unsaved":1,"owner":"Administrator","status":"Finished","client_name":"Teste","start_date":"2025-04-03 15:30:00","duration":"00:30:00","description":"teste teste teste"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2025-04-02 05:14:08,837 ERROR frappe New Exception collected in error log
+Site: scheduling.localhost
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Appointment","name":"new-appointment-uygekrsjhg","__islocal":1,"__unsaved":1,"owner":"Administrator","status":"Finished","client_name":"Teste","start_date":"2025-04-03 15:30:00","duration":"00:30:00","description":"teste teste teste"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2025-04-02 05:17:40,901 ERROR frappe New Exception collected in error log
+Site: scheduling.localhost
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Appointment","name":"new-appointment-uygekrsjhg","__islocal":1,"__unsaved":1,"owner":"Administrator","status":"Finished","client_name":"Teste","start_date":"2025-04-03 15:30:00","duration":"00:30:00","description":"teste teste teste"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2025-04-02 05:19:32,205 ERROR frappe New Exception collected in error log
+Site: scheduling.localhost
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Appointment","name":"new-appointment-uygekrsjhg","__islocal":1,"__unsaved":1,"owner":"Administrator","status":"Finished","client_name":"Teste","start_date":"2025-04-03 15:30:00","duration":"00:30:00","description":"teste teste teste"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2025-04-02 05:20:03,236 ERROR frappe New Exception collected in error log
+Site: scheduling.localhost
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Appointment","name":"new-appointment-uygekrsjhg","__islocal":1,"__unsaved":1,"owner":"Administrator","status":"Finished","client_name":"Teste","start_date":"2025-04-03 15:30:00","duration":"00:30:00","description":"teste teste teste"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2025-04-02 05:21:34,040 ERROR frappe New Exception collected in error log
+Site: scheduling.localhost
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Appointment","name":"new-appointment-uygekrsjhg","__islocal":1,"__unsaved":1,"owner":"Administrator","status":"Finished","client_name":"Teste","start_date":"2025-04-03 15:30:00","duration":"00:30:00","description":"teste teste teste"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2025-04-02 05:22:35,196 ERROR frappe New Exception collected in error log
+Site: scheduling.localhost
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Appointment","name":"new-appointment-uygekrsjhg","__islocal":1,"__unsaved":1,"owner":"Administrator","status":"Finished","client_name":"Teste","start_date":"2025-04-03 15:30:00","duration":"00:30:00","description":"teste teste teste"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2025-04-02 05:23:52,730 ERROR frappe New Exception collected in error log
+Site: scheduling.localhost
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Appointment","name":"new-appointment-uygekrsjhg","__islocal":1,"__unsaved":1,"owner":"Administrator","status":"Finished","client_name":"Teste","start_date":"2025-04-03 15:30:00","duration":"00:30:00","description":"teste teste teste"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2025-04-02 05:30:40,818 ERROR frappe New Exception collected in error log
+Site: scheduling.localhost
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Appointment","name":"new-appointment-uygekrsjhg","__islocal":1,"__unsaved":1,"owner":"Administrator","status":"Finished","client_name":"Teste","start_date":"2025-04-03 15:30:00","duration":"00:30:00","description":"teste teste teste"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2025-04-02 05:31:02,869 ERROR frappe New Exception collected in error log
+Site: scheduling.localhost
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Appointment","name":"new-appointment-uygekrsjhg","__islocal":1,"__unsaved":1,"owner":"Administrator","status":"Finished","client_name":"Teste","start_date":"2025-04-03 15:30:00","duration":"00:30:00","description":"teste teste teste"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2025-04-02 05:31:30,951 ERROR frappe New Exception collected in error log
+Site: scheduling.localhost
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Appointment","name":"new-appointment-uygekrsjhg","__islocal":1,"__unsaved":1,"owner":"Administrator","status":"Finished","client_name":"Teste","start_date":"2025-04-03 15:30:00","duration":"00:30:00","description":"teste teste teste"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2025-04-02 05:32:08,570 ERROR frappe New Exception collected in error log
+Site: scheduling.localhost
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Appointment","name":"new-appointment-uygekrsjhg","__islocal":1,"__unsaved":1,"owner":"Administrator","status":"Finished","client_name":"Teste","start_date":"2025-04-03 15:30:00","duration":"00:30:00","description":"teste teste teste"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2025-04-02 05:32:41,948 ERROR frappe New Exception collected in error log
+Site: scheduling.localhost
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Appointment","name":"new-appointment-uygekrsjhg","__islocal":1,"__unsaved":1,"owner":"Administrator","status":"Finished","client_name":"Teste","start_date":"2025-04-03 15:30:00","duration":"00:30:00","description":"teste teste teste"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2025-04-02 05:34:31,016 ERROR frappe New Exception collected in error log
+Site: scheduling.localhost
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Appointment","name":"new-appointment-uygekrsjhg","__islocal":1,"__unsaved":1,"owner":"Administrator","status":"Finished","client_name":"Teste","start_date":"2025-04-03 15:30:00","duration":"00:30:00","description":"teste teste teste"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2025-04-02 05:37:16,723 ERROR frappe New Exception collected in error log
+Site: scheduling.localhost
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Appointment","name":"new-appointment-uygekrsjhg","__islocal":1,"__unsaved":1,"owner":"Administrator","status":"Finished","client_name":"Teste","start_date":"2025-04-03 15:30:00","duration":"00:30:00","description":"teste teste teste"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2025-04-02 05:37:39,612 ERROR frappe New Exception collected in error log
+Site: scheduling.localhost
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Appointment","name":"new-appointment-uygekrsjhg","__islocal":1,"__unsaved":1,"owner":"Administrator","status":"Finished","client_name":"Teste","start_date":"2025-04-03 15:30:00","duration":"00:30:00","description":"teste teste teste"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2025-04-02 05:39:06,870 ERROR frappe New Exception collected in error log
+Site: scheduling.localhost
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Appointment","name":"new-appointment-uygekrsjhg","__islocal":1,"__unsaved":1,"owner":"Administrator","status":"Finished","client_name":"Teste","start_date":"2025-04-03 15:30:00","duration":"00:30:00","description":"teste teste teste"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2025-04-02 23:16:14,918 ERROR frappe New Exception collected in error log
+Site: scheduling.localhost
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Appointment","name":"new-appointment-uxtonoycax","__islocal":1,"__unsaved":1,"owner":"Administrator","status":"Scheduled","client_name":"Neto 2","start_date":"2025-04-03 22:15:46","duration":"00:15:46","seller":"lvtcn5m71q"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2025-04-02 23:19:07,445 ERROR frappe New Exception collected in error log
+Site: scheduling.localhost
+Form Dict: {'doc': '{"name":"lvtcn5m71q","owner":"Administrator","creation":"2025-04-02 23:15:14.965832","modified":"2025-04-02 23:15:14.965832","modified_by":"Administrator","docstatus":0,"idx":0,"client_name":"Neto","start_date":"2025-04-03 22:29:12","end_date":"2025-04-03 23:43:24","duration":"1:14:12","seller":"n9s7302klg","status":"Scheduled","doctype":"Appointment","__last_sync_on":"2025-04-03T02:18:55.303Z","__unsaved":1}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2025-04-02 23:21:47,150 ERROR frappe New Exception collected in error log
+Site: scheduling.localhost
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Appointment","name":"new-appointment-coaegobein","__islocal":1,"__unsaved":1,"owner":"Administrator","status":"Scheduled","client_name":"Bus","start_date":"2025-04-03 22:20:00","duration":"00:03:59","seller":"lvtcn5m71q"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2025-04-02 23:22:00,853 ERROR frappe New Exception collected in error log
+Site: scheduling.localhost
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Appointment","name":"new-appointment-coaegobein","__islocal":1,"__unsaved":1,"owner":"Administrator","status":"Scheduled","client_name":"Bus","start_date":"2025-04-03 22:20:00","duration":"00:03:59","seller":"n9s7302klg"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2025-04-03 02:07:03,335 ERROR frappe New Exception collected in error log
+Site: scheduling.localhost
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Appointment","name":"new-appointment-ttoihcfznk","__islocal":1,"__unsaved":1,"owner":"Administrator","status":"Scheduled","client_name":"Ramom","start_date":"2025-04-03 02:06:15","duration":"00:19:00","description":"Consulta 3","seller":"Administrator"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2025-04-03 02:54:57,321 ERROR frappe New Exception collected in error log
+Site: scheduling.localhost
+Form Dict: {'doctype': 'Appointment', 'start': '2025-03-31 00:00:00', 'end': '2025-05-12 00:00:00', 'filters': '[]', 'field_map': '{"id":"name","start":"start","end":"end","allDay":"all_day","convertToUserTz":"convert_to_user_tz"}', 'cmd': 'frappe.desk.calendar.get_events'}
+2025-04-03 02:55:32,489 ERROR frappe New Exception collected in error log
+Site: scheduling.localhost
+Form Dict: {'doctype': 'Appointment', 'start': '2025-04-04 00:00:00', 'end': '2025-04-05 00:00:00', 'filters': '[]', 'field_map': '{"id":"name","start":"start","end":"end","allDay":"all_day","convertToUserTz":"convert_to_user_tz"}', 'cmd': 'frappe.desk.calendar.get_events'}
+2025-04-03 02:57:13,797 ERROR frappe New Exception collected in error log
+Site: scheduling.localhost
+Form Dict: {'doctype': 'Appointment', 'start': '2025-03-31 00:00:00', 'end': '2025-05-12 00:00:00', 'filters': '[]', 'field_map': '{"id":"name","start":"start","end":"end","allDay":"all_day","convertToUserTz":"convert_to_user_tz"}', 'cmd': 'frappe.desk.calendar.get_events'}
+2025-04-03 02:59:57,041 ERROR frappe New Exception collected in error log
+Site: scheduling.localhost
+Form Dict: {'doctype': 'Appointment', 'start': '2025-04-04 00:00:00', 'end': '2025-04-05 00:00:00', 'filters': '[]', 'field_map': '{"id":"name","start":"start","end":"end","allDay":"all_day","convertToUserTz":"convert_to_user_tz"}', 'cmd': 'frappe.desk.calendar.get_events'}
+2025-04-03 03:03:05,110 ERROR frappe New Exception collected in error log
+Site: scheduling.localhost
+Form Dict: {'doctype': 'Appointment', 'start': '2025-03-31 00:00:00', 'end': '2025-05-12 00:00:00', 'filters': '[]', 'field_map': '{"id":"name","start":"start","end":"end","allDay":"all_day","convertToUserTz":"convert_to_user_tz"}', 'cmd': 'frappe.desk.calendar.get_events'}
+2025-04-03 03:06:47,383 ERROR frappe New Exception collected in error log
+Site: scheduling.localhost
+Form Dict: {'docs': '{"name":"Customize Form","grid_page_length":50,"istable":0,"is_calendar_and_gantt":1,"editable_grid":0,"quick_entry":0,"track_changes":0,"track_views":0,"allow_auto_repeat":0,"allow_import":0,"queue_in_background":0,"naming_rule":"","max_attachments":0,"allow_copy":0,"make_attachments_public":0,"protect_attached_files":0,"show_title_field_in_link":0,"translated_doctype":0,"force_re_route_to_default_view":0,"show_preview_popup":0,"email_append_to":0,"sort_order":"DESC","doctype":"Customize Form","actions":[],"links":[],"states":[],"fields":[{"name":"sguhhqep9v","docstatus":0,"idx":1,"is_system_generated":0,"label":"Make an Appointment","fieldtype":"Section Break","fieldname":"field_name_section","non_negative":0,"reqd":0,"unique":0,"is_virtual":0,"in_list_view":0,"in_standard_filter":0,"in_global_search":0,"in_preview":0,"bold":0,"no_copy":0,"allow_in_quick_entry":0,"translatable":0,"precision":"","length":0,"sort_options":0,"fetch_if_empty":0,"show_dashboard":0,"permlevel":0,"hidden":0,"read_only":0,"collapsible":0,"allow_bulk_edit":0,"ignore_user_permissions":0,"allow_on_submit":0,"report_hide":0,"remember_last_selected_value":0,"hide_border":0,"ignore_xss_filter":0,"in_filter":0,"hide_seconds":0,"hide_days":0,"print_hide":0,"print_hide_if_no_value":0,"columns":0,"is_custom_field":0,"parent":"Customize Form","parentfield":"fields","parenttype":"Customize Form","doctype":"Customize Form Field"},{"name":"sgu2d8v1ar","docstatus":0,"idx":2,"is_system_generated":0,"label":"Client Name","fieldtype":"Data","fieldname":"client_name","non_negative":0,"reqd":1,"unique":0,"is_virtual":0,"in_list_view":1,"in_standard_filter":0,"in_global_search":0,"in_preview":0,"bold":0,"no_copy":0,"allow_in_quick_entry":0,"translatable":0,"precision":"","length":0,"sort_options":0,"fetch_if_empty":0,"show_dashboard":0,"permlevel":0,"hidden":0,"read_only":0,"collapsible":0,"allow_bulk_edit":0,"ignore_user_permissions":0,"allow_on_submit":0,"report_hide":0,"remember_last_selected_value":0,"hide_border":0,"ignore_xss_filter":0,"in_filter":0,"hide_seconds":0,"hide_days":0,"print_hide":0,"print_hide_if_no_value":0,"columns":0,"is_custom_field":0,"parent":"Customize Form","parentfield":"fields","parenttype":"Customize Form","doctype":"Customize Form Field"},{"name":"sgunlg5cot","docstatus":0,"idx":3,"is_system_generated":0,"label":"Description","fieldtype":"Small Text","fieldname":"description","non_negative":0,"reqd":0,"unique":0,"is_virtual":0,"in_list_view":0,"in_standard_filter":0,"in_global_search":0,"in_preview":0,"bold":0,"no_copy":0,"allow_in_quick_entry":0,"translatable":0,"precision":"","length":0,"sort_options":0,"fetch_if_empty":0,"show_dashboard":0,"permlevel":0,"hidden":0,"read_only":0,"collapsible":0,"allow_bulk_edit":0,"ignore_user_permissions":0,"allow_on_submit":0,"report_hide":0,"remember_last_selected_value":0,"hide_border":0,"ignore_xss_filter":0,"in_filter":0,"hide_seconds":0,"hide_days":0,"print_hide":0,"print_hide_if_no_value":0,"columns":0,"is_custom_field":0,"parent":"Customize Form","parentfield":"fields","parenttype":"Customize Form","doctype":"Customize Form Field"},{"name":"sgue2f4bns","docstatus":0,"idx":4,"is_system_generated":0,"label":"Seller","fieldtype":"Link","fieldname":"seller","non_negative":0,"reqd":1,"unique":0,"is_virtual":0,"in_list_view":1,"in_standard_filter":0,"in_global_search":0,"in_preview":0,"bold":0,"no_copy":0,"allow_in_quick_entry":0,"translatable":0,"precision":"","length":0,"options":"User","sort_options":0,"fetch_if_empty":0,"show_dashboard":0,"permlevel":0,"hidden":0,"read_only":0,"collapsible":0,"allow_bulk_edit":0,"ignore_user_permissions":0,"allow_on_submit":0,"report_hide":0,"remember_last_selected_value":0,"hide_border":0,"ignore_xss_filter":0,"in_filter":0,"hide_seconds":0,"hide_days":0,"print_hide":0,"print_hide_if_no_value":0,"columns":0,"is_custom_field":0,"parent":"Customize Form","parentfield":"fields","parenttype":"Customize Form","doctype":"Customize Form Field"},{"name":"sgu57ai7n7","docstatus":0,"idx":5,"is_system_generated":0,"label":"Status","fieldtype":"Select","fieldname":"status","non_negative":0,"reqd":1,"unique":0,"is_virtual":0,"in_list_view":0,"in_standard_filter":0,"in_global_search":0,"in_preview":0,"bold":0,"no_copy":0,"allow_in_quick_entry":0,"translatable":0,"precision":"","length":0,"options":"Scheduled\\nFinished\\nCanceled","sort_options":0,"fetch_if_empty":0,"show_dashboard":0,"permlevel":0,"hidden":0,"read_only":0,"collapsible":0,"allow_bulk_edit":0,"ignore_user_permissions":0,"allow_on_submit":0,"report_hide":0,"remember_last_selected_value":0,"hide_border":0,"ignore_xss_filter":0,"in_filter":0,"hide_seconds":0,"hide_days":0,"print_hide":0,"print_hide_if_no_value":0,"columns":0,"is_custom_field":0,"parent":"Customize Form","parentfield":"fields","parenttype":"Customize Form","doctype":"Customize Form Field"},{"name":"sgu7mtrfc6","docstatus":0,"idx":6,"is_system_generated":0,"label":"","fieldtype":"Column Break","fieldname":"column_break_vdew","non_negative":0,"reqd":0,"unique":0,"is_virtual":0,"in_list_view":0,"in_standard_filter":0,"in_global_search":0,"in_preview":0,"bold":0,"no_copy":0,"allow_in_quick_entry":0,"translatable":0,"precision":"","length":0,"sort_options":0,"fetch_if_empty":0,"show_dashboard":0,"permlevel":0,"hidden":0,"read_only":0,"collapsible":0,"allow_bulk_edit":0,"ignore_user_permissions":0,"allow_on_submit":0,"report_hide":0,"remember_last_selected_value":0,"hide_border":0,"ignore_xss_filter":0,"in_filter":0,"hide_seconds":0,"hide_days":0,"print_hide":0,"print_hide_if_no_value":0,"columns":0,"is_custom_field":0,"parent":"Customize Form","parentfield":"fields","parenttype":"Customize Form","doctype":"Customize Form Field"},{"name":"sgud6diegv","docstatus":0,"idx":7,"is_system_generated":0,"label":"Start Date","fieldtype":"Datetime","fieldname":"start_date","non_negative":0,"reqd":1,"unique":0,"is_virtual":0,"in_list_view":0,"in_standard_filter":0,"in_global_search":0,"in_preview":0,"bold":0,"no_copy":0,"allow_in_quick_entry":0,"translatable":0,"precision":"","length":0,"sort_options":0,"fetch_if_empty":0,"show_dashboard":0,"permlevel":0,"hidden":0,"read_only":0,"collapsible":0,"allow_bulk_edit":0,"ignore_user_permissions":0,"allow_on_submit":0,"report_hide":0,"remember_last_selected_value":0,"hide_border":0,"ignore_xss_filter":0,"in_filter":0,"hide_seconds":0,"hide_days":0,"print_hide":0,"print_hide_if_no_value":0,"columns":0,"is_custom_field":0,"parent":"Customize Form","parentfield":"fields","parenttype":"Customize Form","doctype":"Customize Form Field"},{"name":"sgu859kbhb","docstatus":0,"idx":8,"is_system_generated":0,"label":"End Date","fieldtype":"Datetime","fieldname":"end_date","non_negative":0,"reqd":0,"unique":0,"is_virtual":0,"in_list_view":0,"in_standard_filter":0,"in_global_search":0,"in_preview":0,"bold":0,"no_copy":0,"allow_in_quick_entry":0,"translatable":0,"precision":"","length":0,"sort_options":0,"fetch_if_empty":0,"show_dashboard":0,"permlevel":0,"hidden":0,"read_only":1,"collapsible":0,"allow_bulk_edit":0,"ignore_user_permissions":0,"allow_on_submit":0,"report_hide":0,"remember_last_selected_value":0,"hide_border":0,"ignore_xss_filter":0,"in_filter":0,"hide_seconds":0,"hide_days":0,"print_hide":0,"print_hide_if_no_value":0,"columns":0,"is_custom_field":0,"parent":"Customize Form","parentfield":"fields","parenttype":"Customize Form","doctype":"Customize Form Field"},{"name":"sgu09e68am","docstatus":0,"idx":9,"is_system_generated":0,"label":"Duration","fieldtype":"Time","fieldname":"duration","non_negative":0,"reqd":1,"unique":0,"is_virtual":0,"in_list_view":1,"in_standard_filter":0,"in_global_search":0,"in_preview":0,"bold":0,"no_copy":0,"allow_in_quick_entry":0,"translatable":0,"precision":"","length":0,"sort_options":0,"fetch_if_empty":0,"show_dashboard":0,"permlevel":0,"hidden":0,"read_only":0,"collapsible":0,"allow_bulk_edit":0,"ignore_user_permissions":0,"allow_on_submit":0,"report_hide":0,"remember_last_selected_value":0,"hide_border":0,"ignore_xss_filter":0,"in_filter":0,"hide_seconds":0,"hide_days":0,"print_hide":0,"print_hide_if_no_value":0,"columns":0,"is_custom_field":0,"parent":"Customize Form","parentfield":"fields","parenttype":"Customize Form","doctype":"Customize Form Field"}],"doc_type":"Appointment","label":"","default_view":"List","sort_field":"creation","title_field":"TESTE","__unsaved":1}', 'method': 'save_customization', 'cmd': 'run_doc_method'}
+2025-04-03 03:54:22,935 ERROR frappe New Exception collected in error log
+Site: scheduling.localhost
+Form Dict: {'doctype': 'Appointment', 'start': '2025-03-31 00:00:00', 'end': '2025-05-12 00:00:00', 'filters': '[]', 'field_map': '{"start":"start_date","end":"end_date","title":"client_name","status":"status","allDay":"all_day","id":"name","color":"status"}', 'cmd': 'scheduling_system.scheduling_system.doctype.appointment.appointment.get_events'}
+2025-04-03 03:55:17,663 ERROR frappe New Exception collected in error log
+Site: scheduling.localhost
+Form Dict: {'doctype': 'Appointment', 'start': '2025-03-31 00:00:00', 'end': '2025-05-12 00:00:00', 'filters': '[]', 'field_map': '{"start":"start_date","end":"end_date","title":"client_name","status":"status","allDay":"all_day","id":"name","color":"status"}', 'cmd': 'scheduling_system.scheduling_system.doctype.appointment.appointment.get_events'}
+2025-04-03 03:55:27,441 ERROR frappe New Exception collected in error log
+Site: scheduling.localhost
+Form Dict: {'doctype': 'Appointment', 'start': '2025-03-31 00:00:00', 'end': '2025-05-12 00:00:00', 'filters': '[]', 'field_map': '{"start":"start_date","end":"end_date","title":"client_name","status":"status","allDay":"all_day","id":"name","color":"status"}', 'cmd': 'scheduling_system.scheduling_system.doctype.appointment.appointment.get_events'}
+2025-04-03 03:55:31,773 ERROR frappe New Exception collected in error log
+Site: scheduling.localhost
+Form Dict: {'doctype': 'Appointment', 'start': '2025-03-31 00:00:00', 'end': '2025-05-12 00:00:00', 'filters': '[]', 'field_map': '{"start":"start_date","end":"end_date","title":"client_name","status":"status","allDay":"all_day","id":"name","color":"status"}', 'cmd': 'scheduling_system.scheduling_system.doctype.appointment.appointment.get_events'}
+2025-04-03 03:55:54,883 ERROR frappe New Exception collected in error log
+Site: scheduling.localhost
+Form Dict: {'doctype': 'Appointment', 'start': '2025-03-31 00:00:00', 'end': '2025-05-12 00:00:00', 'filters': '[]', 'field_map': '{"start":"start_date","end":"end_date","title":"client_name","status":"status","allDay":"all_day","id":"name","color":"status"}', 'cmd': 'scheduling_system.scheduling_system.doctype.appointment.appointment.get_events'}
+2025-04-03 03:56:43,480 ERROR frappe New Exception collected in error log
+Site: scheduling.localhost
+Form Dict: {'doctype': 'Appointment', 'start': '2025-03-31 00:00:00', 'end': '2025-05-12 00:00:00', 'filters': '[]', 'field_map': '{"start":"start_date","end":"end_date","title":"client_name","status":"status","allDay":"all_day","id":"name","color":"status"}', 'cmd': 'scheduling_system.scheduling_system.doctype.appointment.appointment.get_events'}
+2025-04-03 03:57:58,165 ERROR frappe New Exception collected in error log
+Site: scheduling.localhost
+Form Dict: {'doctype': 'Appointment', 'start': '2025-03-31 00:00:00', 'end': '2025-05-12 00:00:00', 'filters': '[]', 'field_map': '{"start":"start_date","end":"end_date","title":"client_name","status":"status","allDay":"all_day","id":"name","color":"status"}', 'cmd': 'scheduling_system.scheduling_system.doctype.appointment.appointment.get_events'}
+2025-04-03 03:59:15,355 ERROR frappe New Exception collected in error log
+Site: scheduling.localhost
+Form Dict: {'doctype': 'Appointment', 'start': '2025-04-28 00:00:00', 'end': '2025-06-09 00:00:00', 'filters': '[]', 'field_map': '{"start":"start_date","end":"end_date","title":"client_name","status":"status","allDay":"all_day","id":"name","color":"status"}', 'cmd': 'scheduling_system.scheduling_system.doctype.appointment.appointment.get_events'}
+2025-04-03 04:01:24,248 ERROR frappe New Exception collected in error log
+Site: scheduling.localhost
+Form Dict: {'doctype': 'Appointment', 'start': '2025-03-31 00:00:00', 'end': '2025-05-12 00:00:00', 'filters': '[]', 'field_map': '{"start":"start_date","end":"end_date","title":"client_name","status":"status","allDay":"all_day","id":"name","color":"status"}', 'cmd': 'scheduling_system.scheduling_system.doctype.appointment.appointment.get_events'}
+2025-04-03 04:06:22,869 ERROR frappe New Exception collected in error log
+Site: scheduling.localhost
+Form Dict: {'doctype': 'Appointment', 'start': '2025-03-31 00:00:00', 'end': '2025-05-12 00:00:00', 'filters': '[]', 'field_map': '{"start":"start_date","end":"end_date","title":"client_name","status":"status","allDay":"all_day","id":"name","color":"status"}', 'cmd': 'scheduling_system.scheduling_system.doctype.appointment.appointment.get_events'}
+2025-04-03 04:06:46,736 ERROR frappe New Exception collected in error log
+Site: scheduling.localhost
+Form Dict: {'doctype': 'Appointment', 'start': '2025-03-31 00:00:00', 'end': '2025-05-12 00:00:00', 'filters': '[]', 'field_map': '{"start":"start_date","end":"end_date","title":"client_name","status":"status","allDay":"all_day","id":"name","color":"status"}', 'cmd': 'scheduling_system.scheduling_system.doctype.appointment.appointment.get_events'}
+2025-04-03 04:09:07,034 ERROR frappe New Exception collected in error log
+Site: scheduling.localhost
+Form Dict: {'doctype': 'Appointment', 'start': '2025-03-31 00:00:00', 'end': '2025-05-12 00:00:00', 'filters': '[]', 'field_map': '{"start":"start_date","end":"end_date","title":"client_name","status":"status","allDay":"all_day","id":"name","color":"status"}', 'cmd': 'scheduling_system.scheduling_system.doctype.appointment.appointment.get_events'}
+2025-04-03 04:10:01,689 ERROR frappe New Exception collected in error log
+Site: scheduling.localhost
+Form Dict: {'doctype': 'Appointment', 'start': '2025-03-31 00:00:00', 'end': '2025-05-12 00:00:00', 'filters': '[]', 'field_map': '{"start":"start_date","end":"end_date","title":"client_name","status":"status","allDay":"all_day","id":"name","color":"status"}', 'cmd': 'scheduling_system.scheduling_system.doctype.appointment.appointment.get_events'}
+2025-04-03 04:11:25,691 ERROR frappe New Exception collected in error log
+Site: scheduling.localhost
+Form Dict: {'doctype': 'Appointment', 'start': '2025-03-31 00:00:00', 'end': '2025-05-12 00:00:00', 'filters': '[]', 'field_map': '{"start":"start_date","end":"end_date","title":"client_name","status":"status","allDay":"all_day","id":"name","color":"status"}', 'cmd': 'scheduling_system.scheduling_system.doctype.appointment.appointment.get_events'}
+2025-04-03 04:41:36,759 ERROR frappe New Exception collected in error log
+Site: scheduling.localhost
+Form Dict: {'doc': '{"name":"gs89l5sai2","owner":"Administrator","creation":"2025-04-03 04:34:12.046234","modified":"2025-04-03 04:34:12.046234","modified_by":"Administrator","docstatus":0,"idx":0,"client_name":"Suzana","seller":"netomilfont@hotmail.com","status":"Finished","description":"Consulta com o dentista.","start_date":"2025-04-22 04:30:38","end_date":"2025-04-22 07:30:38","duration":"3:00:00","doctype":"Appointment","__last_sync_on":"2025-04-03T07:41:32.442Z","__unsaved":1}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2025-04-03 04:41:47,760 ERROR frappe New Exception collected in error log
+Site: scheduling.localhost
+Form Dict: {'doc': '{"name":"gs89l5sai2","owner":"Administrator","creation":"2025-04-03 04:34:12.046234","modified":"2025-04-03 04:34:12.046234","modified_by":"Administrator","docstatus":0,"idx":0,"client_name":"Suzana","seller":"netomilfont@hotmail.com","status":"Canceled","description":"Consulta com o dentista.","start_date":"2025-04-22 04:30:38","end_date":"2025-04-22 07:30:38","duration":"3:00:00","doctype":"Appointment","__last_sync_on":"2025-04-03T07:41:32.442Z","__unsaved":1}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2025-04-03 04:41:59,438 ERROR frappe New Exception collected in error log
+Site: scheduling.localhost
+Form Dict: {'doc': '{"name":"gs89l5sai2","owner":"Administrator","creation":"2025-04-03 04:34:12.046234","modified":"2025-04-03 04:34:12.046234","modified_by":"Administrator","docstatus":0,"idx":0,"client_name":"Suzana","seller":"netomilfont@hotmail.com","status":"Scheduled","description":"Consulta com o dentista.","start_date":"2025-04-22 04:30:38","end_date":"2025-04-22 07:30:38","duration":"3:00:00","doctype":"Appointment","__last_sync_on":"2025-04-03T07:41:32.442Z","__unsaved":1}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2025-04-03 04:43:07,811 ERROR frappe New Exception collected in error log
+Site: scheduling.localhost
+Form Dict: {'doc': '{"name":"8m4brfe985","owner":"Administrator","creation":"2025-04-03 03:25:36.454687","modified":"2025-04-03 03:25:36.454687","modified_by":"Administrator","docstatus":0,"idx":0,"client_name":"Neto","seller":"Administrator","status":"Scheduled","description":"sdasdasdaaaaaa","start_date":"2025-04-03 03:25:17","end_date":"2025-04-03 06:27:17","duration":"3:02:00","doctype":"Appointment","__last_sync_on":"2025-04-03T07:42:58.549Z","__unsaved":1}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2025-04-03 05:06:10,194 ERROR frappe New Exception collected in error log
+Site: scheduling.localhost
+Form Dict: {'doctype': 'Appointment', 'start': '2025-03-31 00:00:00', 'end': '2025-05-12 00:00:00', 'filters': '[]', 'field_map': '{"id":"name","start":"start","end":"end","allDay":"all_day","convertToUserTz":"convert_to_user_tz"}', 'cmd': 'frappe.desk.calendar.get_events'}
+2025-04-03 05:28:24,314 ERROR frappe New Exception collected in error log
+Site: scheduling.localhost
+Form Dict: {'doctype': 'Appointment', 'start': '2025-03-31 00:00:00', 'end': '2025-05-12 00:00:00', 'filters': '[]', 'field_map': '{"start":"start_date","end":"end_date","title":"client_name","status":"status","allDay":"all_day","id":"name","color":"status"}', 'cmd': 'scheduling_system.scheduling_system.doctype.appointment.appointment.get_events'}
+2025-04-03 05:41:55,850 ERROR frappe New Exception collected in error log
+Site: scheduling.localhost
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Appointment","name":"new-appointment-ecoyfwxjck","__islocal":1,"__unsaved":1,"owner":"Administrator","status":"Scheduled","client_name":"Muri","seller":"netomilfont@hotmail.com","start_date":"2025-04-04 23:00:00","duration":"05:00:00"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2025-04-03 05:42:49,744 ERROR frappe New Exception collected in error log
+Site: scheduling.localhost
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Appointment","name":"new-appointment-ecoyfwxjck","__islocal":1,"__unsaved":1,"owner":"Administrator","status":"Scheduled","client_name":"Muri","seller":"netomilfont@hotmail.com","start_date":"2025-04-04 23:00:00","duration":"05:00:00"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2025-04-03 05:59:26,184 ERROR frappe New Exception collected in error log
+Site: scheduling.localhost
+Form Dict: {'doc': '{"name":"1qbf7bu02v","owner":"Administrator","creation":"2025-04-03 05:57:43.505145","modified":"2025-04-03 05:57:43.505145","modified_by":"Administrator","docstatus":0,"idx":0,"client_name":"SDTGASGAS","seller":"Administrator","status":"Scheduled","description":null,"start_date":"2025-04-04 22:00:00","end_date":"2025-04-05 03:00:00","duration":"5:00:00","doctype":"Appointment","__last_sync_on":"2025-04-03T08:57:43.382Z","__unsaved":1}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2025-04-03 06:02:42,654 ERROR frappe New Exception collected in error log
+Site: scheduling.localhost
+Form Dict: {'doctype': 'Appointment', 'start': '2025-03-31 00:00:00', 'end': '2025-05-12 00:00:00', 'filters': '[]', 'field_map': '{"id":"name","start":"start","end":"end","allDay":"all_day","convertToUserTz":"convert_to_user_tz"}', 'cmd': 'frappe.desk.calendar.get_events'}
+2025-04-03 06:14:33,532 ERROR frappe New Exception collected in error log
+Site: scheduling.localhost
+Form Dict: {'doc': '{"name":"9mk2k89t5l","owner":"Administrator","creation":"2025-04-03 06:11:10.840910","modified":"2025-04-03 06:11:10.840910","modified_by":"Administrator","docstatus":0,"idx":0,"client_name":"Debug","seller":"Administrator","status":"Scheduled","description":"kkkkk","start_date":"2025-04-04 06:00:00","end_date":"2025-04-04 06:10:00","duration":"0:10:00","doctype":"Appointment","__last_sync_on":"2025-04-03T09:11:10.573Z","__unsaved":1}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2025-04-03 06:15:39,027 ERROR frappe New Exception collected in error log
+Site: scheduling.localhost
+Form Dict: {'doc': '{"name":"9mk2k89t5l","owner":"Administrator","creation":"2025-04-03 06:11:10.840910","modified":"2025-04-03 06:11:10.840910","modified_by":"Administrator","docstatus":0,"idx":0,"client_name":"Debug","seller":"Administrator","status":"Scheduled","description":"kkkkk","start_date":"2025-04-04 06:00:00","end_date":"2025-04-04 06:10:00","duration":"0:10:00","doctype":"Appointment","__last_sync_on":"2025-04-03T09:11:10.573Z","__unsaved":1}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2025-04-03 06:17:53,364 ERROR frappe New Exception collected in error log
+Site: scheduling.localhost
+Form Dict: {'doc': '{"name":"9mk2k89t5l","owner":"Administrator","creation":"2025-04-03 06:11:10.840910","modified":"2025-04-03 06:11:10.840910","modified_by":"Administrator","docstatus":0,"idx":0,"client_name":"Debug","seller":"Administrator","status":"Scheduled","description":"kkkkk","start_date":"2025-04-04 06:00:00","end_date":"2025-04-04 06:10:00","duration":"0:10:00","doctype":"Appointment","__last_sync_on":"2025-04-03T09:11:10.573Z","__unsaved":1}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2025-04-03 06:18:03,686 ERROR frappe New Exception collected in error log
+Site: scheduling.localhost
+Form Dict: {'doc': '{"name":"9mk2k89t5l","owner":"Administrator","creation":"2025-04-03 06:11:10.840910","modified":"2025-04-03 06:11:10.840910","modified_by":"Administrator","docstatus":0,"idx":0,"client_name":"Debug","seller":"Administrator","status":"Scheduled","description":"kkkkk","start_date":"2025-04-04 06:00:00","end_date":"2025-04-04 06:10:00","duration":"0:10:00","doctype":"Appointment","__last_sync_on":"2025-04-03T09:11:10.573Z","__unsaved":1}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2025-04-03 06:25:23,979 ERROR frappe New Exception collected in error log
+Site: scheduling.localhost
+Form Dict: {'doc': '{"name":"9mk2k89t5l","owner":"Administrator","creation":"2025-04-03 06:11:10.840910","modified":"2025-04-03 06:11:10.840910","modified_by":"Administrator","docstatus":0,"idx":0,"client_name":"Debug","seller":"Administrator","status":"Scheduled","start_date":"2025-04-04 06:00:00","end_date":"2025-04-04 06:10:00","duration":"0:10:00","doctype":"Appointment","__last_sync_on":"2025-04-03T09:21:39.438Z","description":"kkkkk","__unsaved":1}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2025-04-03 06:25:40,527 ERROR frappe New Exception collected in error log
+Site: scheduling.localhost
+Form Dict: {'doc': '{"name":"9mk2k89t5l","owner":"Administrator","creation":"2025-04-03 06:11:10.840910","modified":"2025-04-03 06:11:10.840910","modified_by":"Administrator","docstatus":0,"idx":0,"client_name":"Debug","seller":"Administrator","status":"Scheduled","start_date":"2025-04-04 06:00:00","end_date":"2025-04-04 06:10:00","duration":"0:10:00","doctype":"Appointment","__last_sync_on":"2025-04-03T09:21:39.438Z","description":"kkkkk","__unsaved":1}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2025-04-03 23:46:32,625 ERROR frappe New Exception collected in error log
+Site: scheduling.localhost
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Appointment","name":"new-appointment-fmwmhynbkh","__islocal":1,"__unsaved":1,"owner":"Administrator","status":"Scheduled","client_name":"teste","seller":"Administrator","start_date":"2025-04-04 06:00:00","duration":"00:09:00"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2025-04-03 23:47:43,960 ERROR frappe New Exception collected in error log
+Site: scheduling.localhost
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Appointment","name":"new-appointment-kvhtfbrykp","__islocal":1,"__unsaved":1,"owner":"Administrator","status":"Scheduled","client_name":"Fabio","seller":"Administrator","start_date":"2025-04-04 06:00:00","duration":"00:33:00"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2025-04-03 23:50:35,712 ERROR frappe New Exception collected in error log
+Site: scheduling.localhost
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Appointment","name":"new-appointment-jvtxawlddz","__islocal":1,"__unsaved":1,"owner":"Administrator","status":"Scheduled","client_name":"Tyago","seller":"netomilfont@hotmail.com","start_date":"2025-04-16 09:25:00","duration":"00:50:00"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2025-04-04 00:11:44,984 ERROR frappe New Exception collected in error log
+Site: scheduling.localhost
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Appointment","name":"new-appointment-nzrkwrpfoo","__islocal":1,"__unsaved":1,"owner":"Administrator","status":"Scheduled","client_name":"Alano","seller":"Administrator","start_date":"2025-04-04 06:00:00","duration":"00:11:00"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2025-04-04 00:13:30,615 ERROR frappe New Exception collected in error log
+Site: scheduling.localhost
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Appointment","name":"new-appointment-nzrkwrpfoo","__islocal":1,"__unsaved":1,"owner":"Administrator","status":"Scheduled","client_name":"Alano","seller":"Administrator","start_date":"2025-04-04 06:00:00","duration":"00:11:00"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2025-04-04 00:14:06,486 ERROR frappe New Exception collected in error log
+Site: scheduling.localhost
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Appointment","name":"new-appointment-unpexnjkje","__islocal":1,"__unsaved":1,"owner":"Administrator","status":"Scheduled","client_name":"Teteu","seller":"Administrator","start_date":"2025-04-24 06:00:00","duration":"00:30:00"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
